@@ -1,0 +1,26 @@
+{
+  "latest": {
+    "version": "0.2.0",
+    "date": "2026-11-15",
+    "notes": [
+      "Dinoctor now opens with a fresh, empty project.",
+      "Changing style asks first: keep your shots or start fresh, and save before.",
+      "Pick several shots at once and delete them together.",
+      "Automatic backups for every project, in an Auto-Save folder next to it.",
+      "A + button on every sample adds it in one click.",
+      "Grain is off in samples by default. Add it back any time.",
+      "Properties open right away for a newly added item.",
+      "Connect Dinoctor to Claude or Cursor in one click.",
+      "Notices and updates like this one, which you can stop at any time."
+    ],
+    "mac": {
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.2.0/Dinoctor-mac.dmg",
+      "sha256": "9b6f8c1434b6b9f98c7c58ae2cfb63b7f1fd7a233fc911d6ef2e144bdcf5dbc1"
+    },
+    "win": {
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.2.0/Dinoctor-windows.exe",
+      "sha256": "b67b680aebb5a869083ed76fb1f60b1d50d898664a44811330cbe547ce6c8ed7"
+    }
+  },
+  "notices": []
+}
