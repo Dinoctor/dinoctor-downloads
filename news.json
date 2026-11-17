@@ -1,25 +1,24 @@
 {
   "latest": {
-    "version": "0.4.0",
-    "date": "2026-11-17",
+    "version": "0.4.1",
+    "date": "2026-11-18",
     "notes": [
-      "Dino City: a new sunset city style with 51 famous cities, cars, pixel people and the dino.",
-      "Make a style from a video: the style maker studies your video shot by shot and builds a matching style.",
-      "Dinoctor Pro: buy once on Gumroad and paste your key. Every style stays free to try.",
-      "Pay with a post, until December 31: share a video made with Dinoctor and get a free code.",
-      "Click to try everywhere: moves, transitions, cameras, faces, places and people play first.",
-      "Your first video in 60 seconds, from Help.",
-      "Open templates from a link or file, and drop a project on the window.",
-      "Clearer tools for Claude, Claude Code and Cursor.",
-      "Fixes: fights, character shapes, Learn to direct, export stuck on Windows, and Quit."
+      "Make a style from a video: a finished style no longer stops with \"didn't pass its tests\".",
+      "Dino City: no more flickering walls and ground, a dreamier sunset look, soft sun rays.",
+      "Dino City: Smash and Stomp flatten people, your own lights show up and flicker.",
+      "Moving a light keeps your Look, and \"Reset this light\" puts it back.",
+      "Focus follows the character or distance you pick.",
+      "No orange flash when you press play.",
+      "Deleting your own style no longer gets the editor stuck.",
+      "Mac: no second Dinoctor icon in the Dock."
     ],
     "mac": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.0/Dinoctor-mac.dmg",
-      "sha256": "76872a5d5ccda08b9293aed7499d4ff5b3075cfa5ab074e6d94b12bd75d8b8f9"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.1/Dinoctor-mac.dmg",
+      "sha256": "a1e692e39ff3f46557eea66f107edfdfde622abbc19064c232b11320f55bb966"
     },
     "win": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.0/Dinoctor-windows.exe",
-      "sha256": "5c4e8981590879090692088c379f97207257b911e136712f607e72b61843b865"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.1/Dinoctor-windows.exe",
+      "sha256": "d697183da9d7082e51fc3dfd506c72875dd49b41f9884fa23490b98d70684555"
     }
   },
   "notices": []
