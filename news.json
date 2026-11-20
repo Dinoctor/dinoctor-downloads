@@ -1,26 +1,26 @@
 {
   "latest": {
-    "version": "0.4.1",
-    "date": "2026-11-18",
+    "version": "0.4.2",
+    "date": "2026-11-20",
     "notes": [
-      "Make a style from a video: a finished style no longer stops with \"didn't pass its tests\".",
-      "Dino City: no more flickering walls and ground, a dreamier sunset look, soft sun rays.",
-      "Dino City: Smash and Stomp flatten people, your own lights show up and flicker.",
-      "Moving a light keeps your Look, and \"Reset this light\" puts it back.",
-      "Focus follows the character or distance you pick.",
-      "No orange flash when you press play.",
-      "Deleting your own style no longer gets the editor stuck.",
-      "Mac: no second Dinoctor icon in the Dock."
+      "Properties always open for the person or object you pick.",
+      "Voices keep their times, can be moved and stacked, and captions follow them.",
+      "Keyframes for camera, focus, worlds, effects and shapes; sliders follow the playhead.",
+      "Shadows and rim light that follow your lamps (Documentary).",
+      "Shapes menu, How much world, and text behind people at its own depth.",
+      "Shortcuts for every tool and menu, and a font list that shows each font.",
+      "Undo says what it undid, and cleaner cut-out edges.",
+      "Many smaller fixes from a full day of testing."
     ],
     "mac": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.1/Dinoctor-mac.dmg",
-      "sha256": "a1e692e39ff3f46557eea66f107edfdfde622abbc19064c232b11320f55bb966"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.2/Dinoctor-mac.dmg",
+      "sha256": "dbef4d5458b9904c83abefbf7d9866d1ae38e3e52aecf1079e2dbcea9a9a7915"
     },
     "win": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.1/Dinoctor-windows.exe",
-      "sha256": "d697183da9d7082e51fc3dfd506c72875dd49b41f9884fa23490b98d70684555"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.2/Dinoctor-windows.exe",
+      "sha256": "3cce8c6c363a423b05f5aa79a7a2e54f84f7b0a23619f86119a782d726ecd74e"
     }
   },
   "notices": [],
-  "signature": "LtVR12B4tqZ2LW60HCCPrHxGWYJhIGFiF6zJA479QeDoIw4T+QqKlBWJ+6SPMp7oUIIu3rVbARgYC0jXAjxABw=="
+  "signature": "1oES4SnxV36tO9jx2A5KUT0ax+gYjvd7OvI9OnN3E00hM2eof2XH9ss6ayJc+R7LxE/vluhtOsNI81q8FnyPDg=="
 }
