@@ -1,19 +1,19 @@
 {
   "latest": {
-    "version": "0.4.3",
+    "version": "0.4.4",
     "date": "2026-11-22",
     "notes": [
-      "New fade and opacity controls, smoother editing and better exports. Dinoctor is faster and more reliable all round."
+      "Faster exports, a tidier Media panel that keeps each project's pictures together, and smoother editing all round."
     ],
     "mac": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.3/Dinoctor-mac.dmg",
-      "sha256": "c380da9b2fea8dc95f0f9b1c301b566921d36c0e7dae272b3248347fb6cf5e32"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.4/Dinoctor-mac.dmg",
+      "sha256": "9bbfd0895c445269cf3598146baaa5f72d3f2bb61d8bad28f5915d0eb377e252"
     },
     "win": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.3/Dinoctor-windows.exe",
-      "sha256": "a4fa6cd7fc29ed9b8c29fb293b5a82d1ec0e50d727c59ff4d8958237199ad186"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.4/Dinoctor-windows.exe",
+      "sha256": "530d899aabae22cb821e04f2510a7a30c0149954f6e9740d6e7b75fbe1368ffa"
     }
   },
   "notices": [],
-  "signature": "uxPlb/0qPbhTHyLlYxvjZbUhbZ583gxOvJhuoTPS+XgO5ikRN2ydpfP7PKaid80OEKUBpjA/BIXn5JCm8HOVAA=="
+  "signature": "FZu1Kg2N3PuwxmY8VIL7DzoSgTZJRSE4BvcpUByKF0ADstzBG00uBbVJsBGOzMgYPuKIM3mzQKCM6HKHGZ98Cw=="
 }
