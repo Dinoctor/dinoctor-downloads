@@ -3,14 +3,7 @@
     "version": "0.4.3",
     "date": "2026-11-22",
     "notes": [
-      "Fade in and fade out on every shot (right-click a shot).",
-      "Opacity with keyframes for effects, videos and text cards.",
-      "Exports let the music finish: black after the last shot, like CapCut.",
-      "Cut shots keep everything you added to them in the export.",
-      "Undo takes back one thing per press.",
-      "Captions show every word; transitions no longer show picture edges.",
-      "Drag whole folders into Media; card pictures can come from Media.",
-      "Many smaller fixes from your bug reports."
+      "New fade and opacity controls, smoother editing and better exports. Dinoctor is faster and more reliable all round."
     ],
     "mac": {
       "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.3/Dinoctor-mac.dmg",
@@ -22,5 +15,5 @@
     }
   },
   "notices": [],
-  "signature": "bDQMaunkon930bdiA1kkUKRORVvjymljQ7gJrhWhKnfXqZAspaLA6twOa/y3s25r+KypzYjwTCpN/1snEIsoAg=="
+  "signature": "uxPlb/0qPbhTHyLlYxvjZbUhbZ583gxOvJhuoTPS+XgO5ikRN2ydpfP7PKaid80OEKUBpjA/BIXn5JCm8HOVAA=="
 }
