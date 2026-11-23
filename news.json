@@ -1,19 +1,19 @@
 {
   "latest": {
-    "version": "0.4.4",
-    "date": "2026-11-22",
+    "version": "0.4.5",
+    "date": "2026-11-23",
     "notes": [
-      "Faster exports, a tidier Media panel that keeps each project's pictures together, and smoother editing all round."
+      "Smoother timeline and sound editing, pictures from your library in any picture spot, and a free way to unlock Pro styles by sharing your video."
     ],
     "mac": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.4/Dinoctor-mac.dmg",
-      "sha256": "9bbfd0895c445269cf3598146baaa5f72d3f2bb61d8bad28f5915d0eb377e252"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.5/Dinoctor-mac.dmg",
+      "sha256": "389d304ad0351a256757c0c333f2e60215ae10de7cad1c9aad7ac7b5b888a504"
     },
     "win": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.4/Dinoctor-windows.exe",
-      "sha256": "530d899aabae22cb821e04f2510a7a30c0149954f6e9740d6e7b75fbe1368ffa"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.5/Dinoctor-windows.exe",
+      "sha256": "f9c12c048abe676a43aaf2212bee7c71c57232a4f36200ffd1e0769acb2fd9c1"
     }
   },
   "notices": [],
-  "signature": "FZu1Kg2N3PuwxmY8VIL7DzoSgTZJRSE4BvcpUByKF0ADstzBG00uBbVJsBGOzMgYPuKIM3mzQKCM6HKHGZ98Cw=="
+  "signature": "P+EHJ5T//goIc/ump7gxfq3+zrLby4LgH8NcSOfbeS4dKqiCUTK4vyCQendh0K4hOdtYa4yfF4ufc0ekf9hnBA=="
 }
