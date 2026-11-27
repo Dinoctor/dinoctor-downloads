@@ -1,19 +1,19 @@
 {
   "latest": {
-    "version": "0.4.6",
-    "date": "2026-11-25",
+    "version": "0.4.7",
+    "date": "2026-11-27",
     "notes": [
-      "A Claude box that directs whole videos with the camera moving inside each shot, real maps in three looks, and easier text editing: one click picks, a double-click types."
+      "Dinoctor for Mac is now signed and checked by Apple, so it opens with no warning."
     ],
     "mac": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.6/Dinoctor-mac.dmg",
-      "sha256": "f1ef09b85a4cfa9f41a71c8ae6f41f02acbd10d3259e4ba07ae6512af31d250d"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.7/Dinoctor-mac.dmg",
+      "sha256": "5c76c0fdfc88399831e52aeedfa134a5e7d361db1bc1e97ab436665371fec9a9"
     },
     "win": {
-      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.6/Dinoctor-windows.exe",
-      "sha256": "0372ae09e970f6d1fba3006bbe07fd8f960dfefa28351817f2621a9dd103d4ac"
+      "url": "https://github.com/Dinoctor/dinoctor-downloads/releases/download/v0.4.7/Dinoctor-windows.exe",
+      "sha256": "44d376e8ccc1f49f7baa97b9b2a8088912725b571d8c3d0e8cf04365bf730aa4"
     }
   },
   "notices": [],
-  "signature": "NJ5n2FKWmDo3jan6AkFfepWhX17hdVyNLKaQ1xNzfR2wZPC/a0o6XrOnegyyi/RryaMQKRsBj/4yVGe7pFqiDg=="
+  "signature": "jZXoclXe857qva5QcQx335b7ZoGwsINjm8k0MlnswmwljAQuSB4TLKzyN009GKsZMMmcKzpHnei7/xYZD4TCBg=="
 }
